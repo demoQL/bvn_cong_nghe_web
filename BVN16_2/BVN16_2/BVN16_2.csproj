@@ -108,6 +108,7 @@
   <ItemGroup>
     <Content Include="css\user.css" />
     <Content Include="html\user.html" />
+    <Content Include="images\16730234_2214457638779615_4263943156163606293_n.jpg" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
     <Content Include="scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="Web.config" />
